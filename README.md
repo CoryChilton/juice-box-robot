@@ -13,3 +13,6 @@ https://github.com/CoryChilton/juice-box-robot/assets/16692102/4b31a41b-66ac-471
 There were six possible pick up and drop off locations for the juice box, so the correct locations were determined immediately before the run by a dice roll. This information could only be passed to the robot via remote control, and no further user input was allowed from that point forward.  
 
 The coding included line tracking and branch detection using four IR sensors, object and wall detection using the two front mounted ultrasonic sensors, and controlling the lift and gripper mechanisms. The most difficult part of the programming segment of this project was getting the robot to consistently make 90<sup>o</sup> turns onto the branches using the IR sensors.
+
+### Final Design Report
+Check out the full report [here](./final-design-report.pdf)
